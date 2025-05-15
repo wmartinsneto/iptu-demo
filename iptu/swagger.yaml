@@ -11,7 +11,7 @@ info:
     email: suporte@exemplo.com
 
 servers:
-  - url: http://localhost:8080/iptu
+  - url: http://172.16.20.237:8084/iptu
     description: Servidor de desenvolvimento local
 
 tags:

@@ -380,7 +380,7 @@
         "valor": 1850.25,
         "vencimento": "2025-05-15",
         "codigo_barras": "85810000018-5 50250000001-2 00010003202-5 50515000000-0",
-        "link_boleto": "http://localhost:8080/iptu/boletos/10003_2025.pdf"
+        "link_boleto": "http://172.16.20.237:8084/iptu/boletos/10003_2025.pdf"
       },
       {
         "codigo_imovel": 10004,
@@ -388,7 +388,7 @@
         "valor": 2750.00,
         "vencimento": "2025-05-15",
         "codigo_barras": "85810000027-5 50000000001-2 00010004202-5 50515000000-0",
-        "link_boleto": "http://localhost:8080/iptu/boletos/10004_2025.pdf"
+        "link_boleto": "http://172.16.20.237:8084/iptu/boletos/10004_2025.pdf"
       },
       {
         "codigo_imovel": 10005,
@@ -396,7 +396,7 @@
         "valor": 950.30,
         "vencimento": "2025-05-15",
         "codigo_barras": "85810000009-5 50300000001-2 00010005202-5 50515000000-0",
-        "link_boleto": "http://localhost:8080/iptu/boletos/10005_2025.pdf"
+        "link_boleto": "http://172.16.20.237:8084/iptu/boletos/10005_2025.pdf"
       },
       {
         "codigo_imovel": 10006,
@@ -404,7 +404,7 @@
         "valor": 1150.80,
         "vencimento": "2025-05-15",
         "codigo_barras": "85810000011-5 50800000001-2 00010006202-5 50515000000-0",
-        "link_boleto": "http://localhost:8080/iptu/boletos/10006_2025.pdf"
+        "link_boleto": "http://172.16.20.237:8084/iptu/boletos/10006_2025.pdf"
       },
       {
         "codigo_imovel": 10007,
@@ -412,7 +412,7 @@
         "valor": 2150.40,
         "vencimento": "2025-05-15",
         "codigo_barras": "85810000021-5 50400000001-2 00010007202-5 50515000000-0",
-        "link_boleto": "http://localhost:8080/iptu/boletos/10007_2025.pdf"
+        "link_boleto": "http://172.16.20.237:8084/iptu/boletos/10007_2025.pdf"
       },
       {
         "codigo_imovel": 10008,
@@ -420,7 +420,7 @@
         "valor": 1550.60,
         "vencimento": "2025-05-15",
         "codigo_barras": "85810000015-5 50600000001-2 00010008202-5 50515000000-0",
-        "link_boleto": "http://localhost:8080/iptu/boletos/10008_2025.pdf"
+        "link_boleto": "http://172.16.20.237:8084/iptu/boletos/10008_2025.pdf"
       },
       {
         "codigo_imovel": 10009,
@@ -428,7 +428,7 @@
         "valor": 1950.90,
         "vencimento": "2025-05-15",
         "codigo_barras": "85810000019-5 50900000001-2 00010009202-5 50515000000-0",
-        "link_boleto": "http://localhost:8080/iptu/boletos/10009_2025.pdf"
+        "link_boleto": "http://172.16.20.237:8084/iptu/boletos/10009_2025.pdf"
       },
       {
         "codigo_imovel": 10010,
@@ -436,7 +436,7 @@
         "valor": 1350.20,
         "vencimento": "2025-05-15",
         "codigo_barras": "85810000013-5 50200000001-2 00010010202-5 50515000000-0",
-        "link_boleto": "http://localhost:8080/iptu/boletos/10010_2025.pdf"
+        "link_boleto": "http://172.16.20.237:8084/iptu/boletos/10010_2025.pdf"
       },
       {
         "codigo_imovel": 10011,
@@ -444,7 +444,7 @@
         "valor": 2650.70,
         "vencimento": "2025-05-15",
         "codigo_barras": "85810000026-5 50700000001-2 00010011202-5 50515000000-0",
-        "link_boleto": "http://localhost:8080/iptu/boletos/10011_2025.pdf"
+        "link_boleto": "http://172.16.20.237:8084/iptu/boletos/10011_2025.pdf"
       },
       {
         "codigo_imovel": 10012,
@@ -452,7 +452,7 @@
         "valor": 1050.45,
         "vencimento": "2025-05-15",
         "codigo_barras": "85810000010-5 50450000001-2 00010012202-5 50515000000-0",
-        "link_boleto": "http://localhost:8080/iptu/boletos/10012_2025.pdf"
+        "link_boleto": "http://172.16.20.237:8084/iptu/boletos/10012_2025.pdf"
       },
       {
         "codigo_imovel": 10013,
@@ -460,7 +460,7 @@
         "valor": 1750.35,
         "vencimento": "2025-05-15",
         "codigo_barras": "85810000017-5 50350000001-2 00010013202-5 50515000000-0",
-        "link_boleto": "http://localhost:8080/iptu/boletos/10013_2025.pdf"
+        "link_boleto": "http://172.16.20.237:8084/iptu/boletos/10013_2025.pdf"
       },
       {
         "codigo_imovel": 10014,
@@ -468,7 +468,7 @@
         "valor": 2950.15,
         "vencimento": "2025-05-15",
         "codigo_barras": "85810000029-5 50150000001-2 00010014202-5 50515000000-0",
-        "link_boleto": "http://localhost:8080/iptu/boletos/10014_2025.pdf"
+        "link_boleto": "http://172.16.20.237:8084/iptu/boletos/10014_2025.pdf"
       },
       {
         "codigo_imovel": 10015,
@@ -476,7 +476,7 @@
         "valor": 1450.55,
         "vencimento": "2025-05-15",
         "codigo_barras": "85810000014-5 50550000001-2 00010015202-5 50515000000-0",
-        "link_boleto": "http://localhost:8080/iptu/boletos/10015_2025.pdf"
+        "link_boleto": "http://172.16.20.237:8084/iptu/boletos/10015_2025.pdf"
       }
     ],
     "comerciais": [
@@ -486,7 +486,7 @@
         "valor": 5250.75,
         "vencimento": "2025-05-15",
         "codigo_barras": "85810000052-5 50750000001-2 00020001202-5 50515000000-0",
-        "link_boleto": "http://localhost:8080/iptu/boletos/20001_2025.pdf"
+        "link_boleto": "http://172.16.20.237:8084/iptu/boletos/20001_2025.pdf"
       },
       {
         "codigo_imovel": 20002,
@@ -494,7 +494,7 @@
         "valor": 3750.50,
         "vencimento": "2025-05-15",
         "codigo_barras": "85810000037-5 50500000001-2 00020002202-5 50515000000-0",
-        "link_boleto": "http://localhost:8080/iptu/boletos/20002_2025.pdf"
+        "link_boleto": "http://172.16.20.237:8084/iptu/boletos/20002_2025.pdf"
       },
       {
         "codigo_imovel": 20003,
@@ -502,7 +502,7 @@
         "valor": 8250.25,
         "vencimento": "2025-05-15",
         "codigo_barras": "85810000082-5 50250000001-2 00020003202-5 50515000000-0",
-        "link_boleto": "http://localhost:8080/iptu/boletos/20003_2025.pdf"
+        "link_boleto": "http://172.16.20.237:8084/iptu/boletos/20003_2025.pdf"
       },
       {
         "codigo_imovel": 20004,
@@ -510,7 +510,7 @@
         "valor": 2850.00,
         "vencimento": "2025-05-15",
         "codigo_barras": "85810000028-5 50000000001-2 00020004202-5 50515000000-0",
-        "link_boleto": "http://localhost:8080/iptu/boletos/20004_2025.pdf"
+        "link_boleto": "http://172.16.20.237:8084/iptu/boletos/20004_2025.pdf"
       },
       {
         "codigo_imovel": 20005,
@@ -518,7 +518,7 @@
         "valor": 6350.30,
         "vencimento": "2025-05-15",
         "codigo_barras": "85810000063-5 50300000001-2 00020005202-5 50515000000-0",
-        "link_boleto": "http://localhost:8080/iptu/boletos/20005_2025.pdf"
+        "link_boleto": "http://172.16.20.237:8084/iptu/boletos/20005_2025.pdf"
       },
       {
         "codigo_imovel": 20006,
@@ -526,7 +526,7 @@
         "valor": 3250.80,
         "vencimento": "2025-05-15",
         "codigo_barras": "85810000032-5 50800000001-2 00020006202-5 50515000000-0",
-        "link_boleto": "http://localhost:8080/iptu/boletos/20006_2025.pdf"
+        "link_boleto": "http://172.16.20.237:8084/iptu/boletos/20006_2025.pdf"
       },
       {
         "codigo_imovel": 20007,
@@ -534,7 +534,7 @@
         "valor": 12500.40,
         "vencimento": "2025-05-15",
         "codigo_barras": "85810000125-5 00400000001-2 00020007202-5 50515000000-0",
-        "link_boleto": "http://localhost:8080/iptu/boletos/20007_2025.pdf"
+        "link_boleto": "http://172.16.20.237:8084/iptu/boletos/20007_2025.pdf"
       },
       {
         "codigo_imovel": 20008,
@@ -542,7 +542,7 @@
         "valor": 4750.60,
         "vencimento": "2025-05-15",
         "codigo_barras": "85810000047-5 50600000001-2 00020008202-5 50515000000-0",
-        "link_boleto": "http://localhost:8080/iptu/boletos/20008_2025.pdf"
+        "link_boleto": "http://172.16.20.237:8084/iptu/boletos/20008_2025.pdf"
       },
       {
         "codigo_imovel": 20009,
@@ -550,7 +550,7 @@
         "valor": 7350.90,
         "vencimento": "2025-05-15",
         "codigo_barras": "85810000073-5 50900000001-2 00020009202-5 50515000000-0",
-        "link_boleto": "http://localhost:8080/iptu/boletos/20009_2025.pdf"
+        "link_boleto": "http://172.16.20.237:8084/iptu/boletos/20009_2025.pdf"
       },
       {
         "codigo_imovel": 20010,
@@ -558,7 +558,7 @@
         "valor": 2950.20,
         "vencimento": "2025-05-15",
         "codigo_barras": "85810000029-5 50200000001-2 00020010202-5 50515000000-0",
-        "link_boleto": "http://localhost:8080/iptu/boletos/20010_2025.pdf"
+        "link_boleto": "http://172.16.20.237:8084/iptu/boletos/20010_2025.pdf"
       },
       {
         "codigo_imovel": 20011,
@@ -566,7 +566,7 @@
         "valor": 15750.70,
         "vencimento": "2025-05-15",
         "codigo_barras": "85810000157-5 50700000001-2 00020011202-5 50515000000-0",
-        "link_boleto": "http://localhost:8080/iptu/boletos/20011_2025.pdf"
+        "link_boleto": "http://172.16.20.237:8084/iptu/boletos/20011_2025.pdf"
       },
       {
         "codigo_imovel": 20012,
@@ -574,7 +574,7 @@
         "valor": 4250.45,
         "vencimento": "2025-05-15",
         "codigo_barras": "85810000042-5 50450000001-2 00020012202-5 50515000000-0",
-        "link_boleto": "http://localhost:8080/iptu/boletos/20012_2025.pdf"
+        "link_boleto": "http://172.16.20.237:8084/iptu/boletos/20012_2025.pdf"
       },
       {
         "codigo_imovel": 20013,
@@ -582,7 +582,7 @@
         "valor": 5850.35,
         "vencimento": "2025-05-15",
         "codigo_barras": "85810000058-5 50350000001-2 00020013202-5 50515000000-0",
-        "link_boleto": "http://localhost:8080/iptu/boletos/20013_2025.pdf"
+        "link_boleto": "http://172.16.20.237:8084/iptu/boletos/20013_2025.pdf"
       },
       {
         "codigo_imovel": 20014,
@@ -590,7 +590,7 @@
         "valor": 3450.15,
         "vencimento": "2025-05-15",
         "codigo_barras": "85810000034-5 50150000001-2 00020014202-5 50515000000-0",
-        "link_boleto": "http://localhost:8080/iptu/boletos/20014_2025.pdf"
+        "link_boleto": "http://172.16.20.237:8084/iptu/boletos/20014_2025.pdf"
       },
       {
         "codigo_imovel": 20015,
@@ -598,7 +598,7 @@
         "valor": 9350.55,
         "vencimento": "2025-05-15",
         "codigo_barras": "85810000093-5 50550000001-2 00020015202-5 50515000000-0",
-        "link_boleto": "http://localhost:8080/iptu/boletos/20015_2025.pdf"
+        "link_boleto": "http://172.16.20.237:8084/iptu/boletos/20015_2025.pdf"
       },
       {
         "codigo_imovel": 20016,
@@ -606,7 +606,7 @@
         "valor": 18750.25,
         "vencimento": "2025-05-15",
         "codigo_barras": "85810000187-5 50250000001-2 00020016202-5 50515000000-0",
-        "link_boleto": "http://localhost:8080/iptu/boletos/20016_2025.pdf"
+        "link_boleto": "http://172.16.20.237:8084/iptu/boletos/20016_2025.pdf"
       },
       {
         "codigo_imovel": 20017,
@@ -614,7 +614,7 @@
         "valor": 22500.50,
         "vencimento": "2025-05-15",
         "codigo_barras": "85810000225-5 00500000001-2 00020017202-5 50515000000-0",
-        "link_boleto": "http://localhost:8080/iptu/boletos/20017_2025.pdf"
+        "link_boleto": "http://172.16.20.237:8084/iptu/boletos/20017_2025.pdf"
       },
       {
         "codigo_imovel": 20018,
@@ -622,7 +622,7 @@
         "valor": 16750.75,
         "vencimento": "2025-05-15",
         "codigo_barras": "85810000167-5 50750000001-2 00020018202-5 50515000000-0",
-        "link_boleto": "http://localhost:8080/iptu/boletos/20018_2025.pdf"
+        "link_boleto": "http://172.16.20.237:8084/iptu/boletos/20018_2025.pdf"
       },
       {
         "codigo_imovel": 20019,
@@ -630,7 +630,7 @@
         "valor": 25750.60,
         "vencimento": "2025-05-15",
         "codigo_barras": "85810000257-5 50600000001-2 00020019202-5 50515000000-0",
-        "link_boleto": "http://localhost:8080/iptu/boletos/20019_2025.pdf"
+        "link_boleto": "http://172.16.20.237:8084/iptu/boletos/20019_2025.pdf"
       },
       {
         "codigo_imovel": 20020,
@@ -638,7 +638,7 @@
         "valor": 7850.35,
         "vencimento": "2025-05-15",
         "codigo_barras": "85810000078-5 50350000001-2 00020020202-5 50515000000-0",
-        "link_boleto": "http://localhost:8080/iptu/boletos/20020_2025.pdf"
+        "link_boleto": "http://172.16.20.237:8084/iptu/boletos/20020_2025.pdf"
       }
     ]
   }

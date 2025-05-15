@@ -69,7 +69,7 @@ Deseja fazer o download do boleto para pagamento?
 **Usuário**: Sim, por favor.
 
 **IARA**: Ótimo! Você pode baixar o boleto através deste link:
-[Baixar Boleto de IPTU](http://localhost:8080/iptu/boletos/gerar_boleto.php?codigo=10001)
+[Baixar Boleto de IPTU](http://172.16.20.237:8084/iptu/boletos/gerar_boleto.php?codigo=10001)
 
 O boleto está no formato PDF e contém todas as informações necessárias para o pagamento. Lembre-se que o pagamento pode ser feito em qualquer agência bancária ou casa lotérica até a data de vencimento.
 
@@ -104,7 +104,7 @@ Gostaria de baixar o boleto de algum desses imóveis?
 **Usuário**: Sim, do primeiro imóvel.
 
 **IARA**: Perfeito! Você pode baixar o boleto do imóvel da Rua das Flores, 123 através deste link:
-[Baixar Boleto de IPTU](http://localhost:8080/iptu/boletos/gerar_boleto.php?codigo=10001)
+[Baixar Boleto de IPTU](http://172.16.20.237:8084/iptu/boletos/gerar_boleto.php?codigo=10001)
 
 O boleto está no formato PDF e contém todas as informações necessárias para o pagamento. Posso ajudar com mais alguma coisa?
 

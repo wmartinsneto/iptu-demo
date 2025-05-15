@@ -11,7 +11,7 @@
   },
   "servers": [
     {
-      "url": "http://localhost:8084",
+      "url": "http://172.16.20.237:8084",
       "description": "Servidor de desenvolvimento local"
     },
     {
