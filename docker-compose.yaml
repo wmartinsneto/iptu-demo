@@ -1,0 +1,22 @@
+version: '3'
+
+services:
+  iptu-service:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: iptu-service
+    restart: unless-stopped
+    ports:
+      - "8084:80"  # Expõe na porta 8084 do host, mapeando para a porta 80 do container
+    volumes:
+      - ./iptu:/var/www/html
+    networks:
+      - iptu-network
+      - iaturbo-network  # Rede compartilhada com outros serviços (opcional)
+
+networks:
+  iptu-network:
+    driver: bridge
+  iaturbo-network:
+    external: true  # Usa uma rede externa existente (opcional)
